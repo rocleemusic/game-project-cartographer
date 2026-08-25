@@ -10,7 +10,7 @@ A **noun** is a thing the territory operates on or with: a system, a record type
 
 A **movement** is how a noun changes or flows: what produces it, what consumes it, what regenerates it. Movements live on cards, not as cards.
 
-Target 8–15 cards for a territory a person works in daily. If you have 30, you are photocopying. If you have 3, check the ghosts — undercounting usually means you skipped the confusing parts.
+Target 8–20 cards for a territory a person works in daily. If you have 30, you are photocopying. If you have 3, check the ghosts — undercounting usually means you skipped the confusing parts. Never merge two nouns whose Hits lines differ. A merged card that has to say "changing this half hits X, that half hits Y" is two cards.
 
 ## 2. Find the file of record
 
