@@ -44,6 +44,11 @@ Cards cite. They do not copy. If a card contains a block of the source, delete t
 
 One line per noun plus a door (the card path). The catalog stores almost nothing — it points. Then the reader's walk is: catalog → one card → the cited source → stop.
 
+The catalog carries two fixed extras, and nothing else:
+
+- **An authority note in the header** — one or two lines naming the territory's highest-authority prose (its CONTEXT file, its front door) and the walk date. The front door is not a noun and gets no card. This is its official slot.
+- **A pointer to the map's collision list.** The collision list is its own file, `collisions.md`, beside the catalog — not inside it. A map is three things: `catalog.md`, `collisions.md`, `cards/`.
+
 ## Refusals
 
 - Refuse to inline source into cards. Point instead.
