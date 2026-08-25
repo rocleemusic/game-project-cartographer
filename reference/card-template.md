@@ -6,7 +6,7 @@ Copy this skeleton for every card. Every section is required except Doors on a g
 ---
 name: <noun, kebab-case>
 type: <one of the six in card-types.md>
-status: live | leftover | ghost
+status: live | leftover | ghost | dormant
 record: <the path that wins when sources disagree>
 ---
 
