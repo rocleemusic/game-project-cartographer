@@ -22,6 +22,10 @@ Do not feed it a failure to explain or a methodology to describe. It maps things
 
 Load `map/catalog.md`, then open **one** card, then stop. Never load the whole `cards/` folder. The catalog points. The cards live on the shelves. If you find yourself loading everything, the map has failed you or you are failing the map.
 
+## Two doors, one map
+
+A model enters through `catalog.md`. A person enters through `surface.html`, a self-contained rendered view of the same map — the territory laid out spatially, with the chains a change lights up and the wrong doors marked. The surface is a pure projection of the cards: nothing on it that a card does not say. If the surface and a card disagree, the card wins. If a card and the real file disagree, the file wins. Both doors end at the same cards.
+
 ## What is in this folder
 
 | File | Job |
