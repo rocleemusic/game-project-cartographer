@@ -1,6 +1,6 @@
 # Naming collisions
 
-Chat is not always Chat. In mixed territory the same name lands on several different things, and the collisions are where cold readers get hurt. This file lists the collisions in the worked territory (the game project). **Each new territory gets its own list, built fresh during step 1 of the walk.** Do not carry these entries to another map — carry the habit.
+Chat is not always Chat. In mixed territory the same name lands on several different things, and the collisions are where cold readers get hurt. This file lists the collisions in the worked territory (the game project). **Each new territory gets its own list, built fresh during step 1 of the walk, written to `collisions.md` beside the map's catalog.** Do not carry these entries to another map — carry the habit.
 
 ## The worked territory's collisions
 
