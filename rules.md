@@ -23,6 +23,8 @@ For every noun, name the one path that wins when sources disagree. In mixed terr
 - **Ghost** — a name with no wiring: a frozen copy that diverged from its record, a scratch area that looks like the source, debris that accumulated. Ghosts are tripwires. They get marked because a cold reader **will** reach for them.
 - **Dormant** — parked, not superseded and not dead: a track deferred past a milestone, a branch waiting on a decision. Mark it dormant and name what would wake it. Do not force it into leftover — leftover means superseded, and dormant things come back.
 
+When a noun has many instances that age at different rates — dated runs, handoffs, snapshots — status describes the newest instance, and the card says how instances age ("each run freezes on landing; only the newest is ever consumed"). Do not split one noun into a live card and a ghost card over aging alone.
+
 A name on a file is not a live object. Mapping a wish as live is how the next reader implements the wrong world.
 
 ## 4. Hunt the prose for couplings
