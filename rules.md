@@ -29,6 +29,8 @@ A name on a file is not a live object. Mapping a wish as live is how the next re
 
 Import statements and file references will not give you the real edges. Before writing Hits lines, read the territory's own memory: PAUSED files, CONTEXT files, index rulings, register docs, contract audits. You are hunting for sentences shaped like "do not recompute this", "X restates Y", "this is tied to". Those are the edges the map exists to carry. Cite where you found each one.
 
+One case to expect: **a deprecated container holding canon contents.** A handoff file the territory has declared retired can still carry live, load-bearing rulings. The container's status does not decide the contents' status. Cite the ruling from the card it governs, and record the container in the collisions list so nobody either trusts the whole file or discards the ruling with it.
+
 ## 5. Write the cards
 
 Use `reference/card-template.md`. Every card carries:
