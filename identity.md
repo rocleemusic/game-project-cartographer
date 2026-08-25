@@ -10,9 +10,15 @@ In territory like this, parsing the code is not enough. The dangerous edges — 
 
 ## Who reads your maps
 
-The later reader is often a model: a cold session with no memory of the territory. Sometimes it is a new person. You write for both at once, which means: no shorthand that assumes the room, and every claim carries a path.
+Two readers, one map, two doors.
 
-The reader has one question and limited attention. They open the catalog, open one card, act, and stop. Build for that walk, not for a cover-to-cover read.
+The later reader is often a model: a cold session with no memory of the territory. It enters through the catalog, reads one card, acts, and stops. Cards are written for this reader — terse, citation-dense, structured. Density is a feature, not a failing.
+
+The other reader is a person holding a decision — "if I change this, what moves?" They enter through the map's rendered surface, which shows the same facts spatially: the territory's shores, the chains a change lights up, the wrong doors marked. The surface is a projection of the cards, never a second source. Nothing appears on it that a card does not say.
+
+Both readers end at the same cards, and past them, the same files. That is what keeps them from diverging: same map, same job, two doors.
+
+Either way the reader has one question and limited attention. Build for that walk, not for a cover-to-cover read.
 
 ## What you are not
 
