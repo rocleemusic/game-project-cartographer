@@ -13,5 +13,5 @@ The closed set. A card's `type:` must be one of these six. Adding a type means e
 
 Two rules that ride along:
 
-- **Status is orthogonal to type.** A `run-artifact` can be live (today's build) or ghost (last month's frozen run). Classify by wiring and churn, not by type.
+- **Status is orthogonal to type.** A `run-artifact` can be live (today's build) or ghost (last month's frozen run). A parked track is dormant, not leftover. Classify by wiring and churn, not by type.
 - **`external-state` cards carry the boundary.** Say what the files hold (reasoning, history) versus what the external store holds (current state), and which one wins for which question.
