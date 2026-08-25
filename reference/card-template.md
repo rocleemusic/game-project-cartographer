@@ -30,4 +30,5 @@ Limits:
 
 - A card is under 40 lines. Longer means you are photocopying — cut the copy, keep the pointer.
 - `record:` is one path. If you had to list two, you have two nouns or an unresolved collision. Say which, on the card.
+- On an `external-state` card, `record:` is the pointer file — the in-territory path that says where the external store lives and what it holds. The external store itself is the authority. Name it in the first line of "What it is".
 - If the card and the file at `record:` disagree, the file wins and the card is wrong. Fix the card.
