@@ -66,3 +66,4 @@ The catalog carries two fixed extras, and nothing else:
 
 1. **No dead doors.** Every path cited on every card exists in the territory right now. Check each one.
 2. **No orphaned live systems.** Every subsystem that shows recent churn is claimed by some card, or the catalog says explicitly why it is out of scope. Silent omission reads as "covered" when it is not.
+3. **The seam is crossed.** Take the changes a reader will actually bring (change a mechanic, change the content, change the look) and trace each across the seam through stated Hits edges, card to card, to where it lands. A chain that dead-ends on one shore means missing edges, not a quiet territory. A card pointing at a noun no card owns means a card is missing or a Hits line is vague.
