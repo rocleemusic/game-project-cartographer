@@ -10,6 +10,8 @@ A **noun** is a thing the territory operates on or with: a system, a record type
 
 A **movement** is how a noun changes or flows: what produces it, what consumes it, what regenerates it. Movements live on cards, not as cards.
 
+While inventorying, **name the territory's major seam** — the boundary most changes must cross (design/build, source/deploy, authored/generated) — and place each noun on a shore. Some nouns sit on neither shore. The seam is where a map earns its keep: changes that stay on one shore are usually obvious, and changes that cross are where readers get lost.
+
 Target 8–20 cards for a territory a person works in daily. If you have 30, you are photocopying. If you have 3, check the ghosts — undercounting usually means you skipped the confusing parts. Never merge two nouns whose Hits lines differ. A merged card that has to say "changing this half hits X, that half hits Y" is two cards.
 
 ## 2. Find the file of record
