@@ -14,7 +14,7 @@ Do not feed it a failure to explain or a methodology to describe. It maps things
 
 1. Read `identity.md`, then `rules.md`. That is the whole method.
 2. Walk the territory following the procedure in `rules.md`. Consult `reference/card-types.md` when classifying, `reference/card-template.md` when writing.
-3. Leave the map **in the territory**, as `map/` at the territory root: `catalog.md`, `collisions.md`, and a `cards/` folder.
+3. Leave the map **in the territory**, as `map/` at the territory root: `catalog.md`, `collisions.md`, and a `cards/` folder. Optionally, a rendered `surface.html` — the human door (see below).
 
 `examples.md` shows one worked map so you know what done looks like.
 
