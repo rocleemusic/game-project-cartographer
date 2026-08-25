@@ -1,0 +1,34 @@
+# game-project-cartographer
+
+A cartographer for mixed-material territories: bodies of work where truth is spread across code, content files, design docs, and external state. Drop this folder into a Claude project, point the AI at the territory, and it walks the work and leaves a map behind. The map is the product.
+
+The later reader of that map is often a model — a cold session with no memory. Sometimes it is a new person. Same map. Same job.
+
+## What to feed it
+
+One territory root. A repo, a vault, a delivery folder — anything where a cold reader would get lost, and where code alone does not hold the whole truth. This cartographer was built against a live game project (Phaser code + ink narrative + JSON records + markdown design docs + an external task board). Its rules transfer to any territory of that shape.
+
+Do not feed it a failure to explain or a methodology to describe. It maps things that are in force and will be changed.
+
+## How a cold model walks
+
+1. Read `identity.md`, then `rules.md`. That is the whole method.
+2. Walk the territory following the procedure in `rules.md`. Consult `reference/card-types.md` when classifying, `reference/card-template.md` when writing.
+3. Leave the map **in the territory**, as `map/` at the territory root: one `catalog.md` plus a `cards/` folder.
+
+`examples.md` shows one worked map so you know what done looks like.
+
+## The one rule for map readers
+
+Load `map/catalog.md`, then open **one** card, then stop. Never load the whole `cards/` folder. The catalog points. The cards live on the shelves. If you find yourself loading everything, the map has failed you or you are failing the map.
+
+## What is in this folder
+
+| File | Job |
+|---|---|
+| `identity.md` | Who the cartographer is and who reads the maps |
+| `rules.md` | The walk, as a procedure, plus the refusals |
+| `examples.md` | One worked map of a real territory, abridged |
+| `reference/card-types.md` | The closed set of card types |
+| `reference/card-template.md` | The card skeleton, copyable |
+| `reference/collisions.md` | Naming collisions in the worked territory, and the rule that each territory gets a fresh list |
