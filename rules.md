@@ -21,6 +21,7 @@ For every noun, name the one path that wins when sources disagree. In mixed terr
 - **Live** — changed recently, wired in, someone will change it again. Check churn (git log, modified dates), not the name on the folder.
 - **Leftover** — superseded but honest: an `-old` folder, an archive, a build artifact. It says what it is. Mark it so the reader spends zero attention on it.
 - **Ghost** — a name with no wiring: a frozen copy that diverged from its record, a scratch area that looks like the source, debris that accumulated. Ghosts are tripwires. They get marked because a cold reader **will** reach for them.
+- **Dormant** — parked, not superseded and not dead: a track deferred past a milestone, a branch waiting on a decision. Mark it dormant and name what would wake it. Do not force it into leftover — leftover means superseded, and dormant things come back.
 
 A name on a file is not a live object. Mapping a wish as live is how the next reader implements the wrong world.
 
