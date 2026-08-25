@@ -59,18 +59,18 @@ persona. The card in `cast/` is the soul; everything else is a photograph.
 name: cue
 type: code-system
 status: live
-record: phaser/src/render/vfx/CueTable.ts
+record: phaser/src/render/vfx/cues.json
 ---
 
 ## What it is
 A spell VFX entry: which spritesheet plays, at what frame rate, anchored
-where. The table exists because VFX are data-tuned, not code-tuned —
-calibration happens by editing numbers, and the backend
-(`phaser/src/render/vfx/PhaserVfxBackend.ts`) just plays what the table
-says.
+where. The entries live in data (`cues.json`), not code, because VFX are
+tuned by editing numbers — the backend
+(`phaser/src/render/vfx/PhaserVfxBackend.ts`) just plays what the data
+says, and `CueTable.ts` carries the types and shared formulas.
 
 ## Doors
-- `phaser/src/render/vfx/CueTable.ts` — the table itself
+- `phaser/src/render/vfx/cues.json` — the entries themselves
 - `PAUSED.md` — the calibration rulings, per cue
 
 ## Hits
