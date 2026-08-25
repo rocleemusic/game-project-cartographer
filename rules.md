@@ -39,8 +39,10 @@ One case to expect: **a deprecated container holding canon contents.** A handoff
 
 Use `reference/card-template.md`. Every card carries:
 
-- **Hits** — if you change this, what moves. Paths, not vibes.
+- **Hits** — if you change this, what moves. Paths, not vibes. When a hit lands on something another card owns, name the target by its card noun — a bare destination ("this folds into ink") is a dangling edge nobody can follow. If the true answer is "the effect is out of reach" (shipped text no process re-touches), say that; an honest dead end beats a missing line.
 - **Does not hit** — the obvious next noun that is the wrong one. Name it and say why it is wrong. Without this line you wrote a glossary.
+
+Watch the direction of your caution. "Don't touch that" lines come easily. "Here is what you will touch" lines are the ones readers need and walkers under-write. Every live card should state its forward hits, not just its fences.
 
 Cards cite. They do not copy. If a card contains a block of the source, delete the block and point at it. Two to four sentences of "what it is and why it is shaped that way" is the ceiling.
 
