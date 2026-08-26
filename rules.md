@@ -71,7 +71,7 @@ Plain does not mean vague. Full accuracy, plainer words. A path is still a path.
 
 Every run is dated and kept. Write the run's full output to `runs/YYYY-MM-DD/` inside this folder: catalog, collisions, cards, and the surface. A past run is never overwritten. That folder is the trail.
 
-`runs/` is git-ignored. It is a local history, not a published copy — the same rule that keeps map copies out of the public repo.
+Keep the trail with the repo when the map is the deliverable — a submission, where the copies are the proof. Git-ignore `runs/` when the territory's map must stay private. That is the same rule that keeps map copies out of a public repo.
 
 The live map, delivered to the territory's `map/`, is always the newest run. The territory holds one current snapshot. The cartographer folder holds the history.
 
