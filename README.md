@@ -39,5 +39,6 @@ A model enters through `catalog.md`. A person enters through `surface.html`, a s
 | `reference/card-types.md` | The closed set of card types |
 | `reference/card-template.md` | The card skeleton, copyable |
 | `reference/collisions.md` | Naming collisions in the worked territory, and the rule that each territory gets a fresh list |
-| `reference/surface-spec.md` | How to render the map's human door, `surface.html` |
+| `reference/surface-spec.md` | How to render the map's human door, `surface.html` — what it must show |
+| `reference/surface-template.html` | The human door as a working skeleton: the full engine plus example data. Fill the data blocks, don't rebuild the engine. |
 | `runs/YYYY-MM-DD/` | The trail: one dated folder per run. Ships with the repo when the map is the deliverable; git-ignore it when the map must stay private. |
