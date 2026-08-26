@@ -15,6 +15,9 @@ Do not feed it a failure to explain or a methodology to describe. It maps things
 1. Read `identity.md`, then `rules.md`. That is the whole method.
 2. Walk the territory following the procedure in `rules.md`. Consult `reference/card-types.md` when classifying, `reference/card-template.md` when writing.
 3. Leave the map **in the territory**, as `map/` at the territory root: `catalog.md`, `collisions.md`, and a `cards/` folder. Optionally, a rendered `surface.html` — the human door (see below).
+4. Archive the same run to `runs/YYYY-MM-DD/` inside this folder — the trail. `runs/` is git-ignored, so the history stays local and never publishes a map copy. The territory's `map/` is always the newest run.
+
+Everything the map shows a reader is plain language and follows ASD-STE100 (see `rules.md`, "Write plain").
 
 `examples.md` shows one worked map so you know what done looks like.
 
