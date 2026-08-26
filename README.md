@@ -17,7 +17,7 @@ Do not feed it a post-mortem or a method to write up. It maps what is live and w
 1. Read `identity.md`, then `rules.md`. That is the whole method.
 2. Walk the territory by the procedure in `rules.md`. Use `reference/card-types.md` to classify a noun, `reference/card-template.md` to write its card.
 3. Leave the map **in the territory**, as `map/` at its root: `catalog.md`, `collisions.md`, and a `cards/` folder. Add a rendered `surface.html` — the human door — if you want one (see below).
-4. Archive the same run to `runs/YYYY-MM-DD/` in this folder. That is the trail. The territory's `map/` is always the newest run. Keep the trail in the repo when the map is the deliverable, like a submission. Git-ignore `runs/` when the territory's map must stay private.
+4. Archive the same run to `runs/YYYY-MM-DD/` in this folder. That is the trail. A second run the same day gets `runs/YYYY-MM-DD-2/`, so no run is overwritten. The territory's `map/` is always the newest run. Keep the trail in the repo when the map is the deliverable, like a submission. Git-ignore `runs/` when the territory's map must stay private.
 
 Everything the map shows a reader is plain language and follows ASD-STE100 (see `rules.md`, "Write plain").
 
