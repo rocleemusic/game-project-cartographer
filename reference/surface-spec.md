@@ -49,6 +49,7 @@ This is a different axis from the open-work layer. A run can show zero task chan
 
 - **Pure projection.** Every word comes from `catalog.md`, `collisions.md`, or a card. The one exception is the open-work layer, which comes from the task board and is stamped as such. Nothing else is invented. Nothing load-bearing is dropped. Edges exist only where a Hits line states them.
 - **A door, not a destination.** The page hands the reader to a card. It never replaces one.
+- **Walkable, not just readable.** The reader moves through the map by hand — hover a mark to preview it, click a noun to travel to its card. Every noun the page names is a place you can go.
 - **Honest edges.** A by-hand hop looks different from one that carries itself. Open questions and stated dead ends appear as text, not as missing pixels.
 - **Write plain.** Every label and sentence follows the "Write plain" rule in `rules.md` (plain language, ASD-STE100).
 - **Quality floor.** Responsive to mobile, visible keyboard focus, reduced motion respected, works from `file://`.
