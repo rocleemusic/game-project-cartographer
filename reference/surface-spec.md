@@ -30,6 +30,7 @@ The map records structure, not task state. Task state lives on the board. This l
 - File each open task to the **one noun where its change lands**. One task, one home, so the counts stay honest.
 - Show it three ways: a snapshot stamp in the title block, a "Do next" list of the top few (rank by tier, then by what is in motion), and a per-noun count and task list in each detail card.
 - **Stamp the date.** Say plainly that the counts were read when the page was made, and point the reader to the live board.
+- **Also write it as `map/open-work.md`.** The same snapshot, in markdown, beside the catalog: the counts, the "Do next" list, and the open work grouped by noun. The catalog points to it. The surface shows the snapshot; this file records it.
 - **Fallback.** If the board cannot be reached on a run, hide the counts and show a short "not reached — reconnect and re-run" note. Never show a stale list as if it were current. Never invent task state.
 
 The open-work layer answers "what work is open". It does not replace the board, and it is not the same as the transfer surface below.
