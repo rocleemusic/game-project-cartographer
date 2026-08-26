@@ -55,6 +55,8 @@ The catalog carries two fixed extras, and nothing else:
 - **An authority note in the header** — one or two lines naming the territory's highest-authority prose (its CONTEXT file, its front door) and the walk date. The front door is not a noun and gets no card. This is its official slot.
 - **A pointer to the map's collision list.** The collision list is its own file, `collisions.md`, beside the catalog — not inside it. A map is three things: `catalog.md`, `collisions.md`, `cards/`.
 
+When the territory has a task board, the catalog also points to one optional file: `open-work.md`, a dated snapshot of open tasks filed by noun (see `reference/surface-spec.md`). It is a layer, like the surface. The three core files stand on their own without it.
+
 ## Write plain
 
 Every word the map shows a reader — cards, catalog, collisions, and the surface — is plain language and follows ASD-STE100 (Simplified Technical English).
