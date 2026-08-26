@@ -40,3 +40,4 @@ A model enters through `catalog.md`. A person enters through `surface.html`, a s
 | `reference/card-template.md` | The card skeleton, copyable |
 | `reference/collisions.md` | Naming collisions in the worked territory, and the rule that each territory gets a fresh list |
 | `reference/surface-spec.md` | How to render the map's human door, `surface.html` |
+| `runs/YYYY-MM-DD/` | The trail: one dated folder per run. Git-ignored — local history, never published. |
