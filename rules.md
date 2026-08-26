@@ -81,7 +81,9 @@ Plain does not mean vague. Full accuracy, plainer words. A path is still a path.
 
 ## Runs leave a trail
 
-Every run is dated and kept. Write the run's full output to `runs/YYYY-MM-DD/` inside this folder: catalog, collisions, cards, and the surface. A past run is never overwritten. That folder is the trail.
+Every run is dated and kept. Write the run's full output to `runs/YYYY-MM-DD/` inside this folder: catalog, collisions, cards, and the surface. That folder is the trail.
+
+**Never overwrite a past run.** Before writing, check whether the date folder already exists. If it does, this is a second run that day — write to `runs/YYYY-MM-DD-2/`, then `-3`, and so on. The folder names still sort in run order, so "the newest run" is the last one.
 
 Keep the trail with the repo when the map is the deliverable — a submission, where the copies are the proof. Git-ignore `runs/` when the territory's map must stay private. That is the same rule that keeps map copies out of a public repo.
 
