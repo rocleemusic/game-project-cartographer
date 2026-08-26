@@ -55,6 +55,28 @@ The catalog carries two fixed extras, and nothing else:
 - **An authority note in the header** — one or two lines naming the territory's highest-authority prose (its CONTEXT file, its front door) and the walk date. The front door is not a noun and gets no card. This is its official slot.
 - **A pointer to the map's collision list.** The collision list is its own file, `collisions.md`, beside the catalog — not inside it. A map is three things: `catalog.md`, `collisions.md`, `cards/`.
 
+## Write plain
+
+Every word the map shows a reader — cards, catalog, collisions, and the surface — is plain language and follows ASD-STE100 (Simplified Technical English).
+
+- One idea per sentence. Keep sentences short. Split a sentence that runs long.
+- Active voice. Name the actor. Write "prep:content re-syncs the build", not "the build is re-synced".
+- Use a simple word where one exists. Keep the territory's real names exact — a file path, an id, or a coined term is never simplified.
+- One instruction per sentence. A step that does two things is two sentences.
+- Cut a sentence that only repeats the one before it.
+
+Plain does not mean vague. Full accuracy, plainer words. A path is still a path. A ruling is still a ruling.
+
+## Runs leave a trail
+
+Every run is dated and kept. Write the run's full output to `runs/YYYY-MM-DD/` inside this folder: catalog, collisions, cards, and the surface. A past run is never overwritten. That folder is the trail.
+
+`runs/` is git-ignored. It is a local history, not a published copy — the same rule that keeps map copies out of the public repo.
+
+The live map, delivered to the territory's `map/`, is always the newest run. The territory holds one current snapshot. The cartographer folder holds the history.
+
+The trail is what a later "what changed" view reads. It compares the newest run's `catalog.md` against the run before it. That view needs no task board and no git log — the two dated catalogs hold the difference.
+
 ## Refusals
 
 - Refuse to inline source into cards. Point instead.
