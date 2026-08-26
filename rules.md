@@ -2,6 +2,16 @@
 
 The walk, in order. Do not write cards until step 4. Do not write the catalog until the cards exist.
 
+## Where the map goes
+
+Write the map into the territory, in a `map/` folder off its root:
+
+- `map/catalog.md`, `map/collisions.md`, and `map/cards/` — the three core files (steps 5 and 6).
+- `map/surface.html` — the optional human door (see `reference/surface-spec.md`).
+- `map/open-work.md` — the optional open-work snapshot, when the territory has a task board.
+
+Archive the whole run to `runs/YYYY-MM-DD/` in this cartographer folder (see "Runs leave a trail"). The territory's `map/` is always the newest run.
+
 ## 1. Inventory before cards
 
 Walk the territory root. List candidate nouns before describing any of them.
