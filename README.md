@@ -27,7 +27,7 @@ Load `map/catalog.md`, then open **one** card, then stop. Never load the whole `
 
 ## Two doors, one map
 
-A model enters through `catalog.md`. A person enters through `surface.html`, a self-contained rendered view of the same map — the territory laid out spatially, with the chains a change lights up and the wrong doors marked. The surface is a pure projection of the cards: nothing on it that a card does not say. If the surface and a card disagree, the card wins. If a card and the real file disagree, the file wins. Both doors end at the same cards.
+A model enters through `catalog.md`. A person enters through `surface.html`, a self-contained rendered view of the same map — the territory laid out spatially, with the chains a change lights up and the wrong doors marked. The reader walks it by hand: hover a mark to preview it, click a noun to travel to its card. When a task board is connected, each part also shows its open work as a dated snapshot. The surface is a pure projection of the cards — nothing on it that a card does not say, save the open-work layer, which is stamped as coming from the board. If the surface and a card disagree, the card wins. If a card and the real file disagree, the file wins. Both doors end at the same cards.
 
 ## What is in this folder
 
