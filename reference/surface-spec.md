@@ -2,6 +2,8 @@
 
 Optional step 7 of the walk. After the map passes the honesty checks, render `map/surface.html`. One self-contained HTML file. No server, no framework, no external assets. Web fonts from Google Fonts are the one exception, and every face has a system fallback.
 
+**Start from `reference/surface-template.html`.** It carries the whole engine — chart, zoom and pan, tooltips, the walk, the open-work layer, the fallback — plus a small example map. Fill its DATA blocks with your territory and hand-place the nouns. Do not rebuild the engine from this spec; the spec says what the page must show, the template is how it is built.
+
 The surface is a **chart of the territory**, not a list. Design-side nouns sit on the left. Build-side nouns sit on the right. The seam runs between them as a channel. Off-to-the-side nouns run along the lower margin. A change travels left to right, toward what ships.
 
 ## What the page shows
