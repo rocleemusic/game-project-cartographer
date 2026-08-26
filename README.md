@@ -29,9 +29,19 @@ Load `map/catalog.md`, open **one** card, then stop. Never load the whole `cards
 
 ## Two doors, one map
 
-A model enters through `catalog.md`. A person enters through `surface.html` — the same map, drawn as a chart. The territory is laid out in space, with the chain a change sets off lit up and the wrong turns marked. You walk it by hand: hover a mark to preview it, click a noun to travel to its card. When a task board is connected, each part also shows its open work as a dated snapshot.
+The same map has two entrances.
 
-The surface is a pure projection of the cards. Nothing is on it that a card does not say, except the open-work layer, which is marked as coming from the board. If the surface and a card disagree, the card wins. If a card and the real file disagree, the file wins. Both doors end at the same cards.
+### An agent enters here — `catalog.md`
+
+A cold agent loads `catalog.md`, opens one card, and reads to the source. The catalog points. The cards sit on the shelves. It never loads the whole `cards/` folder.
+
+### A human enters here — `surface.html`
+
+A person opens `surface.html` — the same map, drawn as a chart. The territory is laid out in space, with the chain a change sets off lit up and the wrong turns marked. You walk it by hand: hover a mark to preview it, click a noun to travel to its card. When a task board is connected, each part also shows its open work as a dated snapshot.
+
+### Both doors end at the same cards
+
+The surface is a pure projection of the cards. Nothing is on it that a card does not say, except the open-work layer, which is marked as coming from the board. If the surface and a card disagree, the card wins. If a card and the real file disagree, the file wins.
 
 ## What is in this folder
 
